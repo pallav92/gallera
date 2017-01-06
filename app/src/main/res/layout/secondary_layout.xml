@@ -17,7 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             app:layout_scrollFlags="scroll|enterAlwaysCollapsed|enterAlways"
-            app:contentScrim="@android:color/holo_blue_light"
+            app:contentScrim="@android:color/transparent"
             app:expandedTitleTextAppearance="@style/TransparentText"
             app:collapsedTitleTextAppearance="@style/WhiteText"
             app:expandedTitleMarginStart="48dp"
@@ -55,7 +55,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
-           <!-- <android.support.v7.widget.CardView
+            <android.support.v7.widget.CardView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="24dp"
@@ -83,13 +83,7 @@
 
                 </LinearLayout>
 
-            </android.support.v7.widget.CardView>-->
-
-            <ListView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:id="@+id/lv_details">
-            </ListView>
+            </android.support.v7.widget.CardView>
 
         </FrameLayout>
 
