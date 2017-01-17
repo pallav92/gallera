@@ -1,4 +1,4 @@
-package pallav.example.com.galleryapp;
+package pallav.example.com.galleryapp.response;
 
 /**
  * Created by pallav on 5/1/17.

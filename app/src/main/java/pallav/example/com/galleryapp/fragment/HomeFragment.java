@@ -1,4 +1,4 @@
-package pallav.example.com.galleryapp;
+package pallav.example.com.galleryapp.fragment;
 
 import android.support.v4.app.Fragment;
 

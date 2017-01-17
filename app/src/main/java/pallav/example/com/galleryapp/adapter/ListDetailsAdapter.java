@@ -1,4 +1,4 @@
-package pallav.example.com.galleryapp;
+package pallav.example.com.galleryapp.adapter;
 
 import android.content.Context;
 import android.view.View;
@@ -6,6 +6,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 
 import java.util.ArrayList;
+
+import pallav.example.com.galleryapp.response.MovieResponse;
 
 /**
  * Created by pallav on 6/1/17.

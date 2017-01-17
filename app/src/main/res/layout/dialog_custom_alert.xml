@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/dp17"
+    android:background="@drawable/rounded_square_bg_white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <com.android_plecoapp.customViews.CustomTextView
+            android:id="@+id/txt_title"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp40"
+            android:gravity="center"
+            android:text="@string/gallera"
+            android:textSize="@dimen/dp17"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            />
+
+        <com.android_plecoapp.customViews.CustomTextView
+            android:id="@+id/txt_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dp10"
+            android:gravity="center"
+            android:textSize="@dimen/dp13"
+            android:textColor="@android:color/black"/>
+
+        <com.android_plecoapp.customViews.CustomTextView
+            android:layout_width="match_parent"
+            android:layout_height=".5dp"
+            android:background="@android:color/black"
+            android:layout_marginTop="@dimen/dp10"
+            android:layout_marginLeft="@dimen/dp2"
+            android:layout_marginRight="@dimen/dp2"
+            android:visibility="visible"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp50"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+
+            <com.android_plecoapp.customViews.CustomTextView
+                android:id="@+id/txt_cancel"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/dp50"
+                android:layout_weight=".498"
+                android:gravity="center"
+                android:text="@string/cancel"
+                android:textSize="@dimen/dp13"
+                android:textColor="@color/color_33c0cb"
+                android:visibility="gone"/>
+
+            <com.android_plecoapp.customViews.CustomTextView
+                android:id="@+id/txt_sep"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:background="@android:color/black"
+                android:layout_weight=".004"
+                android:visibility="gone"/>
+
+            <com.android_plecoapp.customViews.CustomTextView
+                android:id="@+id/txt_ok"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/dp50"
+                android:layout_weight=".498"
+                android:gravity="center"
+                android:text="@string/ok"
+                android:textSize="@dimen/dp13"
+                android:textColor="@color/color_33c0cb"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

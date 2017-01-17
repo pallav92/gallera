@@ -1,10 +1,9 @@
-package pallav.example.com.galleryapp;
+package pallav.example.com.galleryapp.activity;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.design.widget.CoordinatorLayout;
 import android.support.design.widget.Snackbar;
-import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.widget.ImageView;
@@ -30,11 +29,13 @@ import java.net.URL;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
+import pallav.example.com.galleryapp.R;
+import pallav.example.com.galleryapp.response.MovieResponse;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-public class MainActivity extends AppCompatActivity implements Callback<MovieResponse> {
+public class MainActivity extends GalleraBaseActivity implements Callback<MovieResponse> {
     Toolbar toolbar;
     @BindView(R.id.cl_main)
     CoordinatorLayout cl_main;
