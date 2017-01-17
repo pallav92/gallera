@@ -2,220 +2,238 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/home/pallav/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_08f644e4d526f5a7e9af34d5846e943b36936975.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_d7763cc1b5ffd2fec96e2e8d7dee3f4490688f78.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/glide-3.7.0_f1befa257ca24f7e2cb09964ce641ca8ff580699.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_c9650362f9ea62c908a7f718964bd18d2b76df9b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_324a99827140a071a33f15c32770c5296e2afb99.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/gson-2.6.1_687b203e321d4f1e988d8cbdfa8f443f40bacaa6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_7cdeb4b24d7f472c16535a1262dc95c09f67d237.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_427086ca007f8ffb9d4c19511ffe6acb1da6c094.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_0b2c9fa26881dc264c2be78f4f2fe44429d733cb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.2.0/a56f28d5b7fab623c6c1d2afa08dd496d873ac21/logging-interceptor-3.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a56f28d5b7fab623c6c1d2afa08dd496d873ac21">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.2.0_2643c40df56f24aadaca0f951754670ffb4bff93.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_683a251f6c8d867d2d5548df5d61416519a3b70f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_4506e56ea0b10bfd18bfcabfa0c60ca7c7b6e454.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_3636639f8d8c6d7f23f4f9e8121ad2f1eaeebf21.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_c8ff7672342ca3e7df94b969f07be68dbf2ffae0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_1866304f4fa27dc0955cf4d11778a9188db1383d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_da2ab041cdbfd0ba55210fd6b58ad951d4443b18.jar" />
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_efa5d8767b935ae5bae29b5147b64623a7c79cc2\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_cba05fa47681a96a9e2e579dc2a675bff8e7fb5b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/exploded-aar/net.hockeyapp.android/HockeySDK/4.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="30ba3b9539cfb7f4aa709a2ef0082722c76faafd">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/net.hockeyapp.android-HockeySDK-4.0.0_845bfee2c32d847005ccc6478a67c1fde922203b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_cb1eb9f1406310ec68feae8036c1984fc0bfbfe0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_9b573c68ee32c352d3a0b65ea0a5b446dda4eedd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_07abed1e53034696354cb00b641410bcf4ac663f.jar" />
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_8fe03ecbcc1882dfc3d6fcbbc380cfea629d043a\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/pallav/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/okio-1.6.0_d0016636f025ffee6bd5db7d26c540130e985b84.jar" />
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_a458901b56a7323d8d94fcc2411a27b778c15f72\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_58ef733b9b85b6255e0004ed6dc1d786712c32b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_6299cb866c4ff272a3d23b7c2b324ea797c7a798\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_b80ded552e792f51f47a9417d92bea5dea11c7a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_475d1ffddbd113f1d066bf2eb555e9fc8b1aba34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5bb6f54b7c6f36076929e124f787073db19f6a">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_57c82d2160f961f64f57beb6199c4fd2c07e3bbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_9c782f5b52cd3051407d984a3d17426e77ec80f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_23788c729745ce6010bc0f8f53cfb9b0afb62e3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_c290147065f905ab389ec5e9c1b6b23e5d0f8e5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_a6e45f5f8d1c46c2a48de94da5448c285931ece7.jar" />
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_f43dc07ae73dc1c24abf37aa5d9a1328d9ed959a\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="/home/pallav/AndroidStudioProjects/gallera/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_42b159f5f373e02573612c27ea46fef0ea781eb9.jar" />
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_bd7230f0381fb0a63f54764067560e65489d2a9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_320f099c660b92d4f48348a00d32f9e854d1a0db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\4.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30ba3b9539cfb7f4aa709a2ef0082722c76faafd">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\net.hockeyapp.android-HockeySDK-4.0.0_35ad9db6efba46b0dac6fadbc16f40a55e85b427\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aaadb3c946804de3453c70904017f7a4f6e4bc8e">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_339f9bfe0fc8f2b8bc245f33fd27f75befe58ee7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_930618bebe15ce58de43c97e693dfdf86b8f86fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.2.0\a56f28d5b7fab623c6c1d2afa08dd496d873ac21\logging-interceptor-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a56f28d5b7fab623c6c1d2afa08dd496d873ac21">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.2.0_1e3cf44cba77667c641fc53f766c70dda0c3517d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_44a4752f19c7cacd9624c61863ea19d13418e803\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_e8f90dc80d5f3b01c3db5cce25ca5fbc6e278bca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_11070bd0b6649e483bf3a9a9f963ae0d8bd9bfdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_c023b3383072deeeee6c419b793f2bde4f7958a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_d26c35037a8a53bd5da9278950170610baebd46e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_db4cabd2117534149f8cab3d1fb84bd6dd18b193\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_cb09308795b99ae59471072c0fe10267b5770c05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pallav\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\Pallav\AndroidStudioProjects\gallera\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_e501a357c46f4c8b07f1fc5ff6da2df426ae1ba1\classes.dex" />
     </item>
 
 </items>

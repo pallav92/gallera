@@ -26,6 +26,7 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 
+
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import pallav.example.com.galleryapp.R;
