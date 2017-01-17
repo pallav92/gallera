@@ -12,7 +12,7 @@ import android.view.View;
 
 import java.lang.reflect.Field;
 
-import pallav.example.com.galleryapp.activity.GalleraBaseActivity;
+import pallav.example.com.galleryapp.activity.BaseActivity;
 
 /**
  * Created by pallav on 17/1/17.
@@ -21,7 +21,7 @@ import pallav.example.com.galleryapp.activity.GalleraBaseActivity;
 public class BaseFragment extends HeadLessFragment {
 
     private String TAG = BaseFragment.class.getSimpleName();
-    GalleraBaseActivity mActivity;
+    BaseActivity mActivity;
     @TargetApi(23)
     @Override
     public void onAttach(Context context) {
@@ -40,7 +40,7 @@ public class BaseFragment extends HeadLessFragment {
 
     private void onAttachContext(Context context) {
         if (context instanceof Activity)
-            mActivity = (GalleraBaseActivity) context;
+            mActivity = (BaseActivity) context;
     }
 
     @Override

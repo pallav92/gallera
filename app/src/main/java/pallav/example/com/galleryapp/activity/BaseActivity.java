@@ -26,7 +26,7 @@ import pallav.example.com.galleryapp.utils.Utils;
  * Created by pallav on 17/1/17.
  */
 
-public abstract class GalleraBaseActivity extends AppCompatActivity {
+public abstract class BaseActivity extends AppCompatActivity {
     private ProgressDialog progressDialog;
     public Fragment currentFragment;
     public String fragmentTag;
@@ -37,7 +37,7 @@ public abstract class GalleraBaseActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         checkForCrashes();
         checkForUpdates();
-        Utils.hideSoftKeyboard(GalleraBaseActivity.this);
+        Utils.hideSoftKeyboard(BaseActivity.this);
         //addMetrics();
     }
 
@@ -47,7 +47,7 @@ public abstract class GalleraBaseActivity extends AppCompatActivity {
      *
      * @param activityClass
      */
-    public void launchActivity(Class<? extends GalleraBaseActivity> activityClass, boolean isAnimateRequired) {
+    public void launchActivity(Class<? extends BaseActivity> activityClass, boolean isAnimateRequired) {
         startActivity(new Intent(this, activityClass));
         if (isAnimateRequired)
             overridePendingTransitionEnter();
@@ -60,13 +60,13 @@ public abstract class GalleraBaseActivity extends AppCompatActivity {
      * @param activityClass
      * @param flag
      */
-    public void launchActivity(Class<? extends GalleraBaseActivity> activityClass, int flag) {
+    public void launchActivity(Class<? extends BaseActivity> activityClass, int flag) {
         Intent intent = new Intent(this, activityClass);
         intent.setFlags(flag);
         startActivity(intent);
     }
 
-    public void launchActivityByClearExisting(Class<? extends GalleraBaseActivity> aClass, boolean isAnimateRequired) {
+    public void launchActivityByClearExisting(Class<? extends BaseActivity> aClass, boolean isAnimateRequired) {
         Intent intent = new Intent(this, aClass);
         intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
         startActivity(intent);
@@ -75,7 +75,7 @@ public abstract class GalleraBaseActivity extends AppCompatActivity {
         }
     }
 
-    public void launchActivityByclearExistingWithData(Class<? extends GalleraBaseActivity> aClass, Bundle bundle) {
+    public void launchActivityByclearExistingWithData(Class<? extends BaseActivity> aClass, Bundle bundle) {
         Intent intent = new Intent(this, aClass);
         if (bundle != null) {
             intent.putExtras(bundle);
@@ -116,7 +116,7 @@ public abstract class GalleraBaseActivity extends AppCompatActivity {
 
     public void showProgressDialog() {
         if (progressDialog == null) {
-            progressDialog = ProgressDialog.show(GalleraBaseActivity.this, "", "", true);
+            progressDialog = ProgressDialog.show(BaseActivity.this, "", "", true);
             progressDialog.setContentView(R.layout.progresslayout);
             progressDialog.getWindow().setBackgroundDrawable(new ColorDrawable(android.graphics.Color.TRANSPARENT));
         }

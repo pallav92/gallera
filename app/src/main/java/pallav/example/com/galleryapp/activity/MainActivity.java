@@ -35,7 +35,7 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-public class MainActivity extends GalleraBaseActivity implements Callback<MovieResponse> {
+public class MainActivity extends BaseActivity implements Callback<MovieResponse> {
     Toolbar toolbar;
     @BindView(R.id.cl_main)
     CoordinatorLayout cl_main;
