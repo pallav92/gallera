@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Gallera</string>
+    <string name="splash_text">Gallera</string>
+    <string name="gallera">gallera</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+
 </resources>

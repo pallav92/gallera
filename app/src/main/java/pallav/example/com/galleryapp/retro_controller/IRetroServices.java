@@ -1,7 +1,7 @@
 package pallav.example.com.galleryapp.retro_controller;
 
 
-import pallav.example.com.galleryapp.MovieResponse;
+import pallav.example.com.galleryapp.response.MovieResponse;
 import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Query;

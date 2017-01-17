@@ -6,4 +6,17 @@
     <color name="color_normal">#ffffff</color>
     <color name="card_bkgd">#60151414</color>
     <color name="color_transparent">@android:color/transparent</color>
+    <color name="color_33c0cb">#33c0cb</color>
+    <color name="color_4c5554">#4c5554</color>
+    <color name="color_204c5554">#204c5554</color>
+    <color name="color_104c5554">#104c5554</color>
+    <color name="color_00b2cb">#00b2cb</color>
+    <color name="color_27313c">#27313c</color>
+    <color name="color_169fcd">#169fcd</color>
+    <color name="color_30919191">#30919191</color>
+    <color name="color_9fadc4">#9fadc4</color>
+    <color name="color_efefef">#efefef</color>
+    <color name="color_ffffff">#ffffff</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_b8b8b8">#b8b8b8</color>
 </resources>
