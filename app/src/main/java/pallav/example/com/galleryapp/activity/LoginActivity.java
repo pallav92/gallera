@@ -1,11 +1,10 @@
 package pallav.example.com.galleryapp.activity;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 
 import pallav.example.com.galleryapp.R;
 
-public class LoginActivity extends AppCompatActivity {
+public class LoginActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

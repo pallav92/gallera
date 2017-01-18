@@ -18,7 +18,7 @@ import pallav.example.com.galleryapp.activity.BaseActivity;
  * Created by pallav on 17/1/17.
  */
 
-public class BaseFragment extends HeadLessFragment {
+public class BaseFragment extends Fragment {
 
     private String TAG = BaseFragment.class.getSimpleName();
     BaseActivity mActivity;

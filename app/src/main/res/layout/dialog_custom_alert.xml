@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_margin="@dimen/dp17"
-    android:background="@drawable/rounded_square_bg_white">
+    android:background="@drawable/rounded_square_bg_red">
 
     <LinearLayout
         android:layout_width="match_parent"
